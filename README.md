@@ -1,2 +1,2 @@
 # DevOpsTest
-DevOpsTest Repo \m/
+DevOpsTest Repo
